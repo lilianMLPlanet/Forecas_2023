@@ -1,0 +1,9 @@
+{"proag_data_path": "C:/Users/User/Documents/Forecast2023/Data2023/Proag",
+"proag_geojson": "C:/Users/User/Documents/Forecast2023/Data2023/proag_2023_clus_wPWId.gpkg",
+"cropscape_data_path": "C:/Users/User/Documents/Forecast2023/Data2023/Cropscape/All_years",
+"acreage_dataset_path": "C:/Users/User/Documents/Forecast2023/Data2023/acreage_dataset.csv",
+"ci_dataset_path": "C:/Users/User/Documents/Forecast2023/Data2023/CI_dataset_2022_2023.csv",
+"planting_dataset_path": "C:/Users/User/Documents/Forecast2023/Data2023/acreage_dataset.csv",
+"XGB_regresor": "./Models/CI_Forecast_XGBoost_2022_2023_9ts.joblib",
+"XGB_modeldata": "./Models/Planting_date_Forecast_XGBoost_2022_2023-10ts.joblib"
+}
